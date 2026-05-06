@@ -2,7 +2,7 @@
 
 # Hey, I'm Amara Yogeswararao 👋
 
-**Full Stack & Mobile Developer · Open Source Builder · CS '26**
+**Full Stack & Mobile Developer · Open Source Builder · CS '28**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeswar142)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Yogeswar142)
