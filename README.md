@@ -19,7 +19,7 @@ I'm a 3rd-year CS student who builds full-stack web apps, Android & Flutter mobi
 - 🔭 Currently working on: levelling up in competitive programming
 - 🌱 Stack: **MERN · Flutter · Kotlin · Node.js**
 - 💡 Interests: Developer tooling · AI-integrated apps · Community tech
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) or drop a GitHub issue
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yogeswar142) or drop a GitHub issue
 
 ---
 
