@@ -53,8 +53,11 @@ I'm a 3rd-year CS student who builds full-stack web apps, Android & Flutter mobi
 ## GitHub stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yogeswar142&show_icons=true&theme=default&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeswar142&layout=compact&theme=default&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=yogeswar142&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeswar142&layout=compact&theme=default&hide_border=true&langs_count=8" height="160" />
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=yogeswar142&theme=default&hide_border=true" height="160" />
 </div>
 
 ---
