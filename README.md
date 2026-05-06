@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Amara Yogeswararao 👋
+# Hey, I'm Yogeswar 👋
 
 **Full Stack & Mobile Developer · Open Source Builder · CS '28**
 
