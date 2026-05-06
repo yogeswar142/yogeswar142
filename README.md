@@ -32,7 +32,7 @@ I'm a 3rd-year CS student who builds full-stack web apps, Android & Flutter mobi
 | [Medilink](https://github.com/yogeswar142/MediLink) | AI-powered telemedicine web app | MERN · AI |
 | [Zenlock](https://github.com/yogeswar142/Zenlock) | Android focus & digital wellbeing app | Kotlin · Android |
 | [FeedN](https://github.com/yogeswar142/FeedN) | Community food surplus & donation platform | MERN |
-| Kabaddi Nexus | Discord gaming bot for kabaddi fans | Node.js · Discord.js |
+| Kabaddi Nexus | Discord gaming bot for kabaddi fans | Python · Discord.py |
 
 ---
 
